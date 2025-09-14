@@ -48,7 +48,7 @@ During my internship I was working with FireBase, Dart and Flutter.\
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="www.linkedin.com/in/alejandro-chiclana-5ba5121a9"><img src="https://img.shields.io/badge/-Alejandro%20Chiclana%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]<a href="(www.linkedin.com/in/alejandro-chiclana-5ba5121a9)"> </a>
 <a href="mailto:adityakanoiofficial@gmail.com"><img src="https://img.shields.io/badge/-Adityakanoi-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/aditya_kanoi123/"><img src="https://img.shields.io/badge/-Adityakanoi123-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 
