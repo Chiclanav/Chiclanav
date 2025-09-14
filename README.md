@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/WpwTCDe.png" width='1200' height='800'/>
+<img src="https://i.imgur.com/WpwTCDe.png" width='1100' height='650' align="center"/>
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Alejandro Chiclana -- Junio Web Developer </h2>
 
