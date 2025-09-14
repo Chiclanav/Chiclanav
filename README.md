@@ -1,4 +1,4 @@
-![Alejandro Chiclana Banner]<img src="https://i.imgur.com/WpwTCDe.png"/>
+<img src="https://i.imgur.com/WpwTCDe.png" width='300' height='200'/>
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Alejandro Chiclana -- Junio Web Developer </h2>
 
