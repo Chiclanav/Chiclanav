@@ -1,4 +1,6 @@
-<img src="https://i.imgur.com/WpwTCDe.png" width='1100' height='450' align="center"/>
+<img src="https://i.imgur.com/WpwTCDe.png"
+     alt="Banner"
+     style="display:block; margin:0 auto; width:100%; max-width:1100px; height:auto;">
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Alejandro Chiclana -- Junio Web Developer </h2>
 
