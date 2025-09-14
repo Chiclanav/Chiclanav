@@ -2,14 +2,15 @@
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Alejandro Chiclana</h2>
 
-<!-- ## 👋 &nbsp;Hey there! I'm Alejandro Chiclana -->
+<!-- ## 👋 &nbsp;Hey there! I'm Alejandro Chiclana - Junior Web Developer-->
 
 ### 👨🏻‍💻 &nbsp;About Me
 
 👨‍💻 &nbsp;I am Currently Working at Johnson Control in Madrid as Personal Security .\
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I recently finished my studies in Multiplatform Application Development, but I leaned more towards webs' world .\
-🌱 &nbsp;I am currently studying JavaScript and React, and in the future I would like to learn Node.js to become full stack. I'm also thinking about whether to study bootstrap or Tailwind .\
+🌱 &nbsp;I am currently studying JavaScript and React, and in the future I would like to learn Node.js to become full stack. I'm also thinking about whether to study bootstrap or Tailwind 
+During my internship I was working with FireBase, Dart and Flutter.\
 ✍️ &nbsp;In my free time I like to go to the gym and study while doing small projects .\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at acv1998.developer@gmail.com! I'll try to respond as soon as I can.\
@@ -21,6 +22,8 @@
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![Dart](https://img.shields.io/badge/Dart-2.19-blue?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-3.13-blue?style=for-the-badge&logo=flutter&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
@@ -30,6 +33,8 @@
 
 ![MySQL](https://img.shields.io/badge/MySQL-5.7-blue)
 ![SQL](https://img.shields.io/badge/SQL-Structured%20Query%20Language-orange)
+![Firebase](https://img.shields.io/badge/Firebase-🔥-yellow?style=for-the-badge&logo=firebase&logoColor=black)
+
 
 ### 🧰 &nbsp;Version Controll & Tools 
 
