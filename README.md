@@ -1,7 +1,9 @@
+<p align="center">
 <img 
   src="https://i.imgur.com/WpwTCDe.png" 
   alt="Banner" 
-  style="display: block; margin: 0 auto; width: 600px; height: auto;">
+  style="display: block; width: 600px; height: auto;">
+</p>
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Alejandro Chiclana -- Junio Web Developer </h2>
 
